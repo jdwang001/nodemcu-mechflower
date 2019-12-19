@@ -1,5 +1,10 @@
+### 效果展示
+
+[B站视频](https://www.bilibili.com/video/av68451133?from=search&seid=13098605687702360794)
+
 ### 简要说明
 * 程序使用vs code的platformio插件进行的开发
+
 
 ### 已知问题
 * nodemcu 网络不稳定,有时候会造成未能响应,刷新下即可
