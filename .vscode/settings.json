@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/aurora/.platformio/penv/bin:/Users/aurora/.platformio/penv:/usr/local/sbin:/Volumes/OpenWrt/esp-open-sdk/xtensa-lx106-elf/bin/:/usr/local/opt/gnu-sed/libexec/gnubin:/usr/local/apache-maven-3.3.3/bin:/usr/local/bin/:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "*.wpy": "vue",
+        "functional": "cpp"
+    },
+    "python.pythonPath": "/usr/bin/python"
+}
